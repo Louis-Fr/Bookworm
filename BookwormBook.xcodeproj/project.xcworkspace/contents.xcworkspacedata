@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:">
+      location = "self:/Users/XV2/Documents/Dev/iOS/SwiftUI/ProjectInProgress/Bookworm copy/BookwormBook.xcodeproj">
    </FileRef>
 </Workspace>
